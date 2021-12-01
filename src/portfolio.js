@@ -14,10 +14,10 @@ const greeting = {
   username: "Shahjalal Shohag",
   title: "Hi, I'm Shahjalal Shohag a.k.a YouKn0wWho",
   subTitle: emoji(
-    "Competitive Programmer | 7* (Red) at CodeChef | International Master at Codeforces | Problem Setter at IMO, Codeforces, CodeChef, Hackerrank"
+    "Competitive Programmer | Problem Setter at IMO, Codeforces, CodeChef, Hackerrank | 7* (Red) at CodeChef | International Master at Codeforces"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1laCi6P2REnu3a74XhAX3GbYXbpCQgU4F/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1EcvVtuBoxeNBdTUBC-w1zWqGnwXrQ-WK/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -215,7 +215,7 @@ const problemSolving = {
     {
       image: require("./assets/images/codeforces_logo.png"),
       projectName: "International Master",
-      projectDesc: "Highest Rating: 2325,  Top 0.23 percent among 600,000 users",
+      projectDesc: "Highest Rating: 2325,  Top 0.23 percent among 600,000+ users",
       footerLink: [
         {
           name: "YouKn0wWho",
@@ -260,7 +260,7 @@ const achievementSection = {
     {
       title: "Number 1 Contributor in the World on Codeforces",
       subtitle:
-        "Oct 2021 - Present, indicates how much I helped the Comepetitive Programming community.",
+        "Oct 2021 - Present, indicates how much I helped the Competitive Programming community.",
       image: require("./assets/images/top 1 logo.jfif"),
       footerLink: [
         {
@@ -338,7 +338,7 @@ const achievementSection = {
       ]
     },
     {
-      title: "28th in Whole Asia West Continent",
+      title: "23rd in Whole Asia West Continent",
       subtitle:"ICPC Asia-West Continent Final Contest, 2019",
       image: require("./assets/images/icpc logo.png"),
       footerLink: [
@@ -652,11 +652,15 @@ const realBigProjects = {
     {
       image: require("./assets/images/code_library.png"),
       projectName: "The Ultimate Topic List for Competitive Programming",
-      projectDesc: "It took me 4 years to make. And this is the most significant thing that I have ever done in my whole life. It is  a comprehensive Competitive Programming topic list which contains all sorts of topics from easy to advanced with corresponding tutorials, problem lists and templates. It managed to get 200,000+ attentions on LinkedIn and many more on different sites.",
+      projectDesc: "It took me 4 years to make. And this is the most significant thing that I have ever done in my whole life. It is  a comprehensive Competitive Programming topic list which contains all sorts of topics(450+ topics!) from easy to advanced with corresponding tutorials, problem lists and templates. It managed to get 200,000+ attentions on LinkedIn and many more on different sites.",
       footerLink: [
         {
           name: "Topic List",
           url: "https://codeforces.com/blog/entry/95106"
+        },
+        {
+          name: "Featured on Errichto's YouTube Channel",
+          url: "https://www.youtube.com/watch?v=EnAKYuWR2nQ"
         }
         //  you can add extra buttons here.
       ]
