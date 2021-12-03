@@ -17,7 +17,7 @@ const greeting = {
     "Competitive Programmer | Problem Setter at IMO, Codeforces, CodeChef, Hackerrank | 7* (Red) at CodeChef | International Master at Codeforces"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1EcvVtuBoxeNBdTUBC-w1zWqGnwXrQ-WK/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/17K44zbzcKqXEePlyxr7Sh5e8meXOGk6t/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
