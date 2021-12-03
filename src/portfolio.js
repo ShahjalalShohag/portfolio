@@ -436,7 +436,7 @@ const problemSetting = {
   subtitle: "Algorthimic Problems that I have set at times",
   projects: [
     {
-      image: require("./assets/images/problem.jpg"),
+      image: require("./assets/images/problem.png"),
       projectName: "Author of 60+ Problems",
       projectDesc: "A total of 60+ problems on various online judges",
       footerLink: [
