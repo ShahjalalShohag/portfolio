@@ -487,8 +487,8 @@ const problemSetting = {
           url: "https://www.codechef.com/COOK123",
         },
         {
-          name: "Long Challenges, LunchTimes an",
-          url: "https://github.com/ShahjalalShohag/Problem-Setting/tree/main/CodeChef",
+          name: "Long Challenges and LunchTimes",
+          url: "https://github.com/ShahjalalShohag/Problem-Setting/tree/main/CodeChef/README.md",
         }
       ]
     },
