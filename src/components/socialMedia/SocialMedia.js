@@ -14,6 +14,7 @@ export default function socialMedia() {
           className="icon-button blog"
           target="_blank"
           rel="noopener noreferrer"
+          title="Personal Blog"
         >
           <i className="fas fa-blog"></i>
           <span></span>
@@ -25,6 +26,7 @@ export default function socialMedia() {
           className="icon-button github"
           target="_blank"
           rel="noopener noreferrer"
+          title="GitHub"
         >
           <i className="fab fa-github"></i>
           <span></span>
@@ -37,6 +39,7 @@ export default function socialMedia() {
           className="icon-button linkedin"
           target="_blank"
           rel="noopener noreferrer"
+          title="LinkedIn"
         >
           <i className="fab fa-linkedin-in"></i>
           <span></span>
@@ -49,6 +52,7 @@ export default function socialMedia() {
           className="icon-button google"
           target="_blank"
           rel="noopener noreferrer"
+          title="Gmail"
         >
           <i className="fas fa-envelope"></i>
           <span></span>
@@ -73,6 +77,7 @@ export default function socialMedia() {
           className="icon-button facebook"
           target="_blank"
           rel="noopener noreferrer"
+          title="Facebook"
         >
           <i className="fab fa-facebook-f"></i>
           <span></span>
@@ -85,6 +90,7 @@ export default function socialMedia() {
           className="icon-button instagram"
           target="_blank"
           rel="noopener noreferrer"
+          title="Instagram"
         >
           <i className="fab fa-instagram"></i>
           <span></span>
@@ -96,6 +102,7 @@ export default function socialMedia() {
           className="icon-button discord"
           target="_blank"
           rel="noopener noreferrer"
+          title="Discord"
         >
           <i className="fab fa-discord"></i>
           <span></span>
@@ -108,6 +115,7 @@ export default function socialMedia() {
           className="icon-button spotify"
           target="_blank"
           rel="noopener noreferrer"
+          title="Spotify"
         >
           <i className="fab fa-spotify"></i>
           <span></span>
@@ -120,6 +128,7 @@ export default function socialMedia() {
           className="icon-button twitter"
           target="_blank"
           rel="noopener noreferrer"
+          title="Twitter"
         >
           <i className="fab fa-twitter"></i>
           <span></span>
@@ -131,6 +140,7 @@ export default function socialMedia() {
           className="icon-button linktree"
           target="_blank"
           rel="noopener noreferrer"
+          title="Linktree"
         > 
           
           <i class="fas fa-external-link-square-alt"></i>
