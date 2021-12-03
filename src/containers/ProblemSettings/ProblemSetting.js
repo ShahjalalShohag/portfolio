@@ -18,7 +18,7 @@ export default function ProblemSetting() {
     return null;
   }
   return (
-    <Fade bottom duration={1000} distance="20px">
+    // <Fade bottom duration={1000} distance="20px">
       <div className="main" id="problem_setting">
         <div>
           <h1 className="skills-heading">{problemSetting.title}</h1>
@@ -89,6 +89,6 @@ export default function ProblemSetting() {
           </div>
         </div>
       </div>
-    </Fade>
+    // </Fade>
   );
 }

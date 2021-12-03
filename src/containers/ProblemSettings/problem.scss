@@ -26,19 +26,20 @@
   border: 1px solid $lightBorder1;
   justify-content: center;
 }
-.project-card-light {
-  box-shadow: $lightBoxShadowDark 0px 10px 30px -15px;
-  -webkit-transition: all 0.3s ease;
-  -o-transition: all 0.3s ease;
-  transition: all 0.3s ease;
-}
 
-.project-card-dark {
-  box-shadow: 0px 10px 30px -15px $darkBoxShadow;
-  -webkit-transition: all 0.3s ease;
-  -o-transition: all 0.3s ease;
-  transition: all 0.25s ease;
-}
+// .project-card-light {
+//   box-shadow: $lightBoxShadowDark 0px 10px 30px -15px;
+//   -webkit-transition: all 0.3s ease;
+//   -o-transition: all 0.3s ease;
+//   transition: all 0.3s ease;
+// }
+
+// .project-card-dark {
+//   box-shadow: 0px 10px 30px -15px $darkBoxShadow;
+//   -webkit-transition: all 0.3s ease;
+//   -o-transition: all 0.3s ease;
+//   transition: all 0.25s ease;
+// }
 
 .project-detail {
   text-align: center;
@@ -52,7 +53,8 @@
 .project-image {
   position: relative;
   height: 250px;
-  overflow: hidden;
+  // overflow: hidden;
+  overflow: auto;
   text-align: center;
 }
 
@@ -77,7 +79,7 @@
   margin: 0 0.5rem 0.5rem 0;
   padding: 0 0.75em;
   cursor: pointer;
-  transition: 0.2s ease-in;
+  // transition: 0.2s ease-in;
 }
 
 @media (max-width: 768px) {
