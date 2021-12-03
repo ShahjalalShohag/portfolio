@@ -105,7 +105,7 @@ const educationInfo = {
       schoolName: "Shahjalal University of Science and Technology",
       logo: require("./assets/images/sust logo.png"),
       subHeader: "Bachelor of Science in Computer Science and Engineering",
-      duration: "February 2017 - October 2021",
+      duration: "February 2017 - December 2021",
       desc: "Sylhet, Bangladesh",
     },
     {
