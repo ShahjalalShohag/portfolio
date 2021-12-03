@@ -12,7 +12,7 @@ const illustration = {
 
 const greeting = {
   username: "Shahjalal Shohag",
-  title: "Hi, I'm Shahjalal Shohag a.k.a YouKn0wWho",
+  title: "Hi, I'm Shahjalal Shohag a.k.a. YouKn0wWho",
   subTitle: emoji(
     "Competitive Programmer | Problem Setter at IMO, Codeforces, CodeChef, Hackerrank | 7* (Red) at CodeChef | International Master at Codeforces"
   ),
@@ -426,17 +426,6 @@ const achievementSection = {
       footerLink: [
       ]
     },
-    {
-      title: "200,000+ Views on my LinkedIn Post about an Educational Project",
-      subtitle:"\"The Ultimate Topic List\" which took me 4+ years to create got 200,000+ views on LinkedIn and many more on different sites.",
-      image: require("./assets/images/linkedin.png"),
-      footerLink: [
-        {
-          name: "Link to the Post",
-          url: "https://www.linkedin.com/posts/shahjalalshohag_the-ultimate-topic-list-with-resources-activity-6845336075771228160-Dc5i"
-        }
-      ]
-    },
   ],
   
   display: true // Set false to hide this section, defaults to true
@@ -721,7 +710,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me"),
   subtitle:
-    "If you want to hire me or you have other queries, then knock me anytime. I try to reply within 24 hours.",
+    "If you want to hire me or have other queries, then knock me anytime. I try to reply within 24 hours.",
   // number: "+92-3243454077",
   email_address: "shahjalalshohag2014@gmail.com"
 };

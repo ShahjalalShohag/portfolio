@@ -48,7 +48,6 @@ const Main = () => {
         {/* <StackProgress /> */}
         <Education />
         <WorkExperience />
-        <SocialMediaConnections/>
         <ProblemSolving/>
         <ProblemSetting/>
         <Achievement />
@@ -57,8 +56,9 @@ const Main = () => {
         <StartupProject />
         <Blogs />
         <Talks />
+        <SocialMediaConnections/>
         <Twitter />
-        <Podcast />
+        {/* <Podcast /> */}
         <Profile />
         {/* <ContactUs/> */}
         <Footer />

@@ -68,11 +68,11 @@ function Header() {
               <a href="#problem_solving">Problem Solving</a>
             </li>
           )}
-          {viewSocialMediaConnections && (
+          {/* {viewSocialMediaConnections && (
             <li>
               <a href="#social_media">Social Media</a>
             </li>
-          )}
+          )} */}
           {viewProblemSetting && (
             <li>
               <a href="#problem_setting">Problem Setting</a>
@@ -88,11 +88,11 @@ function Header() {
               <a href="#github_projects">Projects</a>
             </li>
           )}
-          {viewRealBigProjects && (
+          {/* {viewRealBigProjects && (
             <li>
               <a href="#big_projects">Big Projects</a>
             </li>
-          )}
+          )} */}
           {viewBlog && (
             <li>
               <a href="#blogs">Blogs</a>
