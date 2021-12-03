@@ -261,7 +261,7 @@ const achievementSection = {
       title: "Number 1 Contributor in the World on Codeforces",
       subtitle:
         "Oct 2021 - Present, indicates how much I helped the Competitive Programming community.",
-      image: require("./assets/images/top 1 logo.jfif"),
+      image: require("./assets/images/top_1_logo.png"),
       footerLink: [
         {
           name: "Top Contributed",
@@ -317,7 +317,7 @@ const achievementSection = {
       title: "Most Upvoted Codeforces Blog of All Time",
       subtitle:
         "My monstrous 'The Ultimate Topic List for Competitive Programming' blog is now officially the most upvoted Codeforces blog of all time.",
-      image: require("./assets/images/top.jpg"),
+      image: require("./assets/images/top.png"),
       footerLink: [
         {
           name: "Blog Link",
@@ -393,7 +393,7 @@ const achievementSection = {
     {
       title: "Top 10 in 8+ National Programming Contests",
       subtitle:"Ranked within top 10 among all the teams from Bangladesh in 8+ national level programming contests",
-      image: require("./assets/images/top 10 logo 2.jpg"),
+      image: require("./assets/images/top_10_logo_2.png"),
       footerLink: [
       ]
     },
@@ -411,7 +411,7 @@ const achievementSection = {
     {
       title: "Champion in National ICT Day Contest",
       subtitle:"Champion in National ICT Day Contest, 2018",
-      image: require("./assets/images/top 1 logo 2.jpg"),
+      image: require("./assets/images/top_1_logo_2.png"),
       footerLink: [
         {
           name: "YouKnowWho",
@@ -500,7 +500,7 @@ const problemSetting = {
       ]
     },
     {
-      image: require("./assets/images/judge.jpg"),
+      image: require("./assets/images/judge.png"),
       projectName: "Problem Setter and Judge at Regional Programming Contest",
       projectDesc: "I was a problem setter, tester, alternate solution writer and judge of Virtual Techfest 2020 Regional Programming Contest organized by Department of CSE, Varendra University.",
       footerLink: [
@@ -512,7 +512,7 @@ const problemSetting = {
       ]
     },
     {
-      image: require("./assets/images/judge.jpg"),
+      image: require("./assets/images/judge.png"),
       projectName: "Problem Setter and Judge at National Programming Contest",
       projectDesc: "I was a problem setter, tester, alternate solution writer and judge of 	National Girls' Programming Contest 2021 and National High School Programming Contest 2021",
       footerLink: [
@@ -535,7 +535,7 @@ const problemSetting = {
       ]
     },
     {
-      image: require("./assets/images/judge.jpg"),
+      image: require("./assets/images/judge.png"),
       projectName: "Problem Setter and Judge at Intra University Programming Contest",
       projectDesc: "I was a problem setter, tester, alternate solution writer and judge of the Intra University Programming Contest, 2019 at Shahjalal University of Science & Technology.",
       footerLink: [
