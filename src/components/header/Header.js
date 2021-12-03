@@ -68,11 +68,6 @@ function Header() {
               <a href="#problem_solving">Problem Solving</a>
             </li>
           )}
-          {/* {viewSocialMediaConnections && (
-            <li>
-              <a href="#social_media">Social Media</a>
-            </li>
-          )} */}
           {viewProblemSetting && (
             <li>
               <a href="#problem_setting">Problem Setting</a>
@@ -101,6 +96,11 @@ function Header() {
           {viewTalks && (
             <li>
               <a href="#talks">Talks</a>
+            </li>
+          )}
+          {viewSocialMediaConnections && (
+            <li>
+              <a href="#social_media">Social</a>
             </li>
           )}
           <li>

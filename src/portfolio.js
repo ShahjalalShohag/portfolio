@@ -276,7 +276,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certificate",
-          url: "https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/0000000000435bad"
+          url: "https://drive.google.com/file/d/1G0EMrfKDPJm20VuwIlmmuhodpykQ_0n2/view?usp=sharing"
         }
       ]
     },
@@ -287,7 +287,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certificate",
-          url: "https://codingcompetitions.withgoogle.com/codejam/certificate/summary/00000000004360f1"
+          url: "https://drive.google.com/file/d/1KrCiVMVGxz3Eo-1naqQ7JwZ8N-bTscf9/view?usp=sharing"
         }
       ]
     },
