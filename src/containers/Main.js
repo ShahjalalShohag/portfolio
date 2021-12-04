@@ -15,7 +15,7 @@ import Footer from "../components/footer/Footer";
 import Talks from "./talks/Talks";
 import Podcast from "./podcast/Podcast";
 import Education from "./education/Education";
-import ContactUs from "../components/contactForm";
+import ContactUs from "../components/ContactForm/contactForm";
 import SocialMediaConnections from "./SocialMediaConnections/socialMediaConnections";
 import Top from "./topbutton/Top";
 import Twitter from "./twitter-embed/twitter";
@@ -48,9 +48,9 @@ const Main = () => {
         {/* <StackProgress /> */}
         <Education />
         <WorkExperience />
+        <Achievement />
         <ProblemSolving/>
         <ProblemSetting/>
-        <Achievement />
         <Projects />
         <RealBigProjects/>
         <StartupProject />
