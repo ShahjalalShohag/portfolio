@@ -184,7 +184,7 @@ const workExperiences = {
       desc: "Bangladesh CP Server is the biggest discord community server of Competitive Programming enthusiasts from Bangladesh",
     },
     {
-      role: "Problem Setter",
+      role: "National Scientific Committee Member",
       company: "Bangladesh Olympiad in Informatics(BdOI)",
       companylogo: require("./assets/images/bdoi.jfif"),
       date: "Feb 2020 – Present",
