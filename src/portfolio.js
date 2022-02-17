@@ -14,7 +14,7 @@ const greeting = {
   username: "Shahjalal Shohag",
   title: "Hi, I'm Shahjalal Shohag a.k.a. YouKn0wWho",
   subTitle: emoji(
-    "Competitive Programmer | Problem Setter at IMO, Codeforces, CodeChef, Hackerrank | 7* (Red) at CodeChef | International Master at Codeforces"
+    "Software Engineer at Alpine DeFi | ICPC World Finalist | Problem Setter at International Math Olympiad, Codeforces, CodeChef, Hackerrank | 7* (Red) at CodeChef | International Master at Codeforces"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1j7qy2dl04F-s27AV_87Q0nJqeOtpoWTe/view?usp=sharing", // Set to empty to hide the button
@@ -30,7 +30,7 @@ const socialMediaLinks = {
   facebook: "https://www.facebook.com/you.know.who.this.guy.is",
   instagram: "https://www.instagram.com/shahjalalshohag/",
   discord: "https://discord.com/users/481065996170428416",
-  twitter: "https://twitter.com/y0ukn0wwh0_",
+  twitter: "https://twitter.com/shahjalalsohag",
   spotify: "https://open.spotify.com/user/s1rkr12perappspc1m9divj8y?si=LwtS33eBTyCl08TU34HT8A&utm_source=copy-link&dl_branch=1",
   blog: "https://blog.shahjalalshohag.com/home",
   linktree: "https://linktr.ee/youkn0wwho",
@@ -50,6 +50,7 @@ const skillsSection = {
     emoji("⚡ Algorithmic Problem Solving (solved 4300++ problems on various online platforms)"),
     emoji("⚡ Data Structures and Algorithms"),
     emoji("⚡ Competitive Programming"),
+    emoji("⚡ Developing API Endpoints"),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -77,10 +78,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
       skillName: "git",
       fontAwesomeClassname: "fab fa-git"
     },
@@ -91,6 +88,26 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "latex",
       fontAwesomeClassname: "fas fa-lightbulb"
+    },
+    {
+      skillName: "postgresql",
+      fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "fastapi",
+      fontAwesomeClassname: "fas fa-server"
+    },
+    {
+      skillName: "pandas",
+      fontAwesomeClassname: "fas fa-p"
+    },
+    {
+      skillName: "docker",
+      fontAwesomeClassname: "fab fa-docker"
+    },
+    {
+      skillName: "npm",
+      fontAwesomeClassname: "fab fa-npm"
     },
   ],
   display: true // Set false to hide this section, defaults to true
@@ -148,6 +165,13 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
+    {
+      role: "Software Engineer",
+      company: "Alpine DeFi",
+      companylogo: require("./assets/images/alpine.png"),
+      date: "Feb 2022 – Present",
+      desc: "Developed API endpoints using PostgreSQL and fastAPI",
+    },
     {
       role: "Problem Setter",
       company: "International Mathematics Olympiad",
@@ -270,6 +294,18 @@ const achievementSection = {
       ]
     },
     {
+      title: "ICPC World Finalist",
+      subtitle:
+        "Managed to qualify for ICPC World Finals 2021 which will take place in November 2022",
+      image: require("./assets/images/icpc logo.png"),
+      footerLink: [
+        {
+          name: "ICPC ID",
+          url: "https://icpc.global/ICPCID/CDZWDIBEYHP4"
+        }
+      ]
+    },
+    {
       title: "Top 0.4 percent in Google Kick Start",
       subtitle:"International Rank of 36th in Google Kick Start Round F, 2021",
       image: require("./assets/images/kickstart.jpg"),
@@ -327,8 +363,8 @@ const achievementSection = {
     },
 
     {
-      title: "One Thousand Stars",
-      subtitle: "My GitHub Repository 'Code Library' has 1200+ stars. This library contains codes for all Data Structures, Algorithms and CP related topics.",
+      title: "One and a Half Thousand Stars",
+      subtitle: "My GitHub Repository 'Code Library' has 1500+ stars. This library contains codes for all Data Structures, Algorithms and CP related topics.",
       image: require("./assets/images/star.png"),
       footerLink: [
         {
@@ -657,7 +693,7 @@ const realBigProjects = {
     {
       image: require("./assets/images/code_library.png"),
       projectName: "The Ultimate Code Library",
-      projectDesc: "It also took me 4 years to complete. Here I compiled almost all the important templates that anyone will need in Competitive Programming (saying almost just for courtesy). It now has 1200+ stars and gets 200+ views per day on average. I am so happy that I could help so many people.",
+      projectDesc: "It also took me 4 years to complete. Here I compiled almost all the important templates that anyone will need in Competitive Programming (saying almost just for courtesy). It now has 1500+ stars and gets 200+ views per day on average. I am so happy that I could help so many people.",
       footerLink: [
         {
           name: "GitHub Link",
@@ -718,7 +754,7 @@ const contactInfo = {
 // Twitter Section
 
 const twitterDetails = {
-  userName: "y0ukn0wwh0_", //Replace "twitter" with your twitter username without @
+  userName: "shahjalalsohag", //Replace "twitter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
 };
 
@@ -737,8 +773,8 @@ const gitHubProfileData = {
             "node": {
               "name": "code-library",
               "description": "Templates, algorithms and data structures implemented and collected for programming contests.",
-              "forkCount": 351,
-              "stargazers": {"totalCount": 1238},
+              "forkCount": 439,
+              "stargazers": {"totalCount": 1540},
               "url": "https://github.com/ShahjalalShohag/code-library",
               "id": "MDEwOlJlcG9zaXRvcnkxNTgwNjUxOTM=",
               "diskUsage": 3695,
@@ -749,8 +785,8 @@ const gitHubProfileData = {
             "node": {
               "name": "Competitive-Programming-A-Complete-Guideline",
               "description": null,
-              "forkCount": 64,
-              "stargazers": {"totalCount": 272},
+              "forkCount": 82,
+              "stargazers": {"totalCount": 342},
               "url": "https://github.com/ShahjalalShohag/Competitive-Programming-A-Complete-Guideline",
               "id": "MDEwOlJlcG9zaXRvcnkyODg5NTM0MTQ=",
               "diskUsage": 302,
@@ -761,8 +797,8 @@ const gitHubProfileData = {
             "node": {
               "name": "ProblemSolving",
               "description": null,
-              "forkCount": 2,
-              "stargazers": {"totalCount": 12},
+              "forkCount": 3,
+              "stargazers": {"totalCount": 17},
               "url": "https://github.com/ShahjalalShohag/ProblemSolving",
               "id": "MDEwOlJlcG9zaXRvcnkzMjMxNjgyNzA=",
               "diskUsage": 16921,
@@ -817,7 +853,7 @@ const socialMediaConnections = {
   projects: [
     {
       image: require("./assets/images/linkedin.png"),
-      projectName: "9,000+ Connections on LinkedIn",
+      projectName: "10,000+ Connections on LinkedIn",
       footerLink: [
         {
           name: "Let's Connect",
@@ -828,7 +864,7 @@ const socialMediaConnections = {
     },
     {
       image: require("./assets/images/face3.jpg"),
-      projectName: "6,000+ Connections on Facebook",
+      projectName: "8,000+ Connections on Facebook",
       footerLink: [
         {
           name: "Let's Connect",
@@ -839,7 +875,7 @@ const socialMediaConnections = {
     },
     {
       image: require("./assets/images/blog.png"),
-      projectName: "30,000+ Views on my Personal Blog Site",
+      projectName: "50,000+ Views on my Personal Blog Site",
       footerLink: [
         {
           name: "Blog Link",
@@ -854,7 +890,7 @@ const socialMediaConnections = {
     },
     {
       image: require("./assets/images/github-logo.png"),
-      projectName: "500+ Followers on GitHub",
+      projectName: "800+ Followers on GitHub",
       footerLink: [
         {
           name: "Follow Me",
@@ -865,7 +901,7 @@ const socialMediaConnections = {
     },
     {
       image: require("./assets/images/codeforces_logo.png"),
-      projectName: "3500+ Followers on CodeForces",
+      projectName: "4500+ Followers on CodeForces",
       footerLink: [
         {
           name: "Follow Me",
