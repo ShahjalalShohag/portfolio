@@ -17,7 +17,7 @@ const greeting = {
     "Software Engineer at Alpine DeFi | ICPC World Finalist | Problem Setter at International Math Olympiad, Codeforces, CodeChef, Hackerrank | 7* (Red) at CodeChef | International Master at Codeforces"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1XD8CJXAt-JapBZ5iFGbw4rMxN12_ujd6/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1JjPrwdytby_EFmmZLiFTm8myzC1_bazB/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
