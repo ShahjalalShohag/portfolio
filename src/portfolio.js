@@ -17,7 +17,7 @@ const greeting = {
     "Software Engineer at Alpine DeFi | ICPC World Finalist | Problem Setter at International Math Olympiad, Codeforces, CodeChef, Hackerrank | 7* (Red) at CodeChef | International Master at Codeforces"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1j7qy2dl04F-s27AV_87Q0nJqeOtpoWTe/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1XD8CJXAt-JapBZ5iFGbw4rMxN12_ujd6/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -122,7 +122,7 @@ const educationInfo = {
       schoolName: "Shahjalal University of Science and Technology",
       logo: require("./assets/images/sust logo.png"),
       subHeader: "Bachelor of Science in Computer Science and Engineering",
-      duration: "February 2017 - December 2021",
+      duration: "February 2017 - February 2022",
       desc: "Sylhet, Bangladesh",
     },
     {
@@ -170,7 +170,7 @@ const workExperiences = {
       company: "Alpine DeFi",
       companylogo: require("./assets/images/alpine.png"),
       date: "Feb 2022 – Present",
-      desc: "Developed API endpoints using PostgreSQL and fastAPI",
+      desc: "Developed API endpoints using FastAPI, PostgreSQL, and pandas",
     },
     {
       role: "Problem Setter",
