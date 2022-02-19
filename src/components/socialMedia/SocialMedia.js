@@ -92,7 +92,7 @@ export default function socialMedia() {
           rel="noopener noreferrer"
           title="Facebook"
         >
-          <i className="fab fa-facebook-f"></i>
+          <i className="fa-brands fa-facebook"></i>
           <span></span>
         </a>
       ) : null}
