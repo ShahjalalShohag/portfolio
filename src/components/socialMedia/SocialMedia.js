@@ -70,18 +70,6 @@ export default function socialMedia() {
         </a>
       ) : null}
 
-      {socialMediaLinks.facebook ? (
-        <a
-          href={socialMediaLinks.page}
-          className="icon-button facebook"
-          target="_blank"
-          rel="noopener noreferrer"
-          title="Facebook"
-        >
-          <i className="fas fa-facebook-f"></i>
-          <span></span>
-        </a>
-      ) : null}
 
     {socialMediaLinks.facebook ? (
         <a
@@ -91,7 +79,20 @@ export default function socialMedia() {
           rel="noopener noreferrer"
           title="Facebook Page"
         >
-          <i className="fas fa-facebook-f"></i>
+          <i className="fab fa-facebook-f"></i>
+          <span></span>
+        </a>
+      ) : null}
+
+    {socialMediaLinks.facebook ? (
+        <a
+          href={socialMediaLinks.page}
+          className="icon-button facebook"
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Facebook"
+        >
+          <i className="fab fa-facebook-f"></i>
           <span></span>
         </a>
       ) : null}
