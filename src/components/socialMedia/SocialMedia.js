@@ -45,7 +45,6 @@ export default function socialMedia() {
           <span></span>
         </a>
       ) : null}
-
       {socialMediaLinks.gmail ? (
         <a
           href={`mailto:${socialMediaLinks.gmail}`}
@@ -80,6 +79,19 @@ export default function socialMedia() {
           title="Facebook"
         >
           <i className="fab fa-facebook-f"></i>
+          <span></span>
+        </a>
+      ) : null}
+
+    {socialMediaLinks.facebook ? (
+        <a
+          href={socialMediaLinks.facebook}
+          className="icon-button facebook"
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Facebook Page"
+        >
+          <i className="fas fa-facebook-f"></i>
           <span></span>
         </a>
       ) : null}

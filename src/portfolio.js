@@ -34,6 +34,7 @@ const socialMediaLinks = {
   spotify: "https://open.spotify.com/user/s1rkr12perappspc1m9divj8y?si=LwtS33eBTyCl08TU34HT8A&utm_source=copy-link&dl_branch=1",
   blog: "https://blog.shahjalalshohag.com/home",
   linktree: "https://linktr.ee/youkn0wwho",
+  page: "https://www.facebook.com/youkn0wwho.official",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
