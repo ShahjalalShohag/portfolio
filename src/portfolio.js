@@ -17,7 +17,7 @@ const greeting = {
     "Software Engineer at Alpine DeFi | ICPC World Finalist | Problem Setter at International Math Olympiad, Codeforces, CodeChef, Hackerrank | 7* (Red) at CodeChef | International Master at Codeforces"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1JjPrwdytby_EFmmZLiFTm8myzC1_bazB/view?usp=sharing", // Set to empty to hide the button
+    "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -308,7 +308,7 @@ const achievementSection = {
     },
     {
       title: "Top 0.4 percent in Google Kick Start",
-      subtitle:"International Rank of 36th in Google Kick Start Round F, 2021",
+      subtitle: "International Rank of 36th in Google Kick Start Round F, 2021",
       image: require("./assets/images/kickstart.jpg"),
       footerLink: [
         {
@@ -319,7 +319,7 @@ const achievementSection = {
     },
     {
       title: "Top 0.8 percent in Google Code Jam",
-      subtitle:"International Rank of 759th in Google Code Jam, 2021 among 93,000+ registrants",
+      subtitle: "International Rank of 759th in Google Code Jam, 2021 among 93,000+ registrants",
       image: require("./assets/images/codejam.jpg"),
       footerLink: [
         {
@@ -330,7 +330,7 @@ const achievementSection = {
     },
     {
       title: "Top 2 percent in Facebook Hacker Cup",
-      subtitle:"International Rank of 732nd in Facebook Hacker Cup, 2021 among 35,000+ registrants",
+      subtitle: "International Rank of 732nd in Facebook Hacker Cup, 2021 among 35,000+ registrants",
       image: require("./assets/images/hackercup.jfif"),
       footerLink: [
         {
@@ -341,7 +341,7 @@ const achievementSection = {
     },
     {
       title: "Top 0.1 percent in CodeChef Snackdown",
-      subtitle:"International Rank of 106 in CodeChef SnackDown 2021 among 75,000+ registrants",
+      subtitle: "International Rank of 106 in CodeChef SnackDown 2021 among 75,000+ registrants",
       image: require("./assets/images/snackdown.svg"),
       footerLink: [
         {
@@ -376,7 +376,7 @@ const achievementSection = {
     },
     {
       title: "23rd in Whole Asia West Continent",
-      subtitle:"ICPC Asia-West Continent Final Contest, 2019",
+      subtitle: "ICPC Asia-West Continent Final Contest, 2019",
       image: require("./assets/images/icpc logo.png"),
       footerLink: [
         {
@@ -391,7 +391,7 @@ const achievementSection = {
     },
     {
       title: "4th and 5th in ICPC Dhaka Regional",
-      subtitle:"National Rank of 4th in ACM ICPC Dhaka Regional, 2020 and 5th in ACM ICPC Dhaka Regional, 2019",
+      subtitle: "National Rank of 4th in ACM ICPC Dhaka Regional, 2020 and 5th in ACM ICPC Dhaka Regional, 2019",
       image: require("./assets/images/icpc logo.png"),
       footerLink: [
         {
@@ -410,7 +410,7 @@ const achievementSection = {
     },
     {
       title: "1st and 2nd Runner-up in ICPC Dhaka Regional Preliminary",
-      subtitle:"National Rank of 2nd in ACM ICPC Dhaka Regional Preliminary, 2020 and 3rd in ACM ICPC Dhaka Regional Preliminary, 2019 among 1500+ teams",
+      subtitle: "National Rank of 2nd in ACM ICPC Dhaka Regional Preliminary, 2020 and 3rd in ACM ICPC Dhaka Regional Preliminary, 2019 among 1500+ teams",
       image: require("./assets/images/icpc logo.png"),
       footerLink: [
         {
@@ -429,14 +429,14 @@ const achievementSection = {
     },
     {
       title: "Top 10 in 8+ National Programming Contests",
-      subtitle:"Ranked within top 10 among all the teams from Bangladesh in 8+ national level programming contests",
+      subtitle: "Ranked within top 10 among all the teams from Bangladesh in 8+ national level programming contests",
       image: require("./assets/images/top_10_logo_2.png"),
       footerLink: [
       ]
     },
     {
       title: "Top 100 in 10+ International Programming Contests",
-      subtitle:"Ranked within top 100 in 10+ international programming contests among 20000+ participants(on average)",
+      subtitle: "Ranked within top 100 in 10+ international programming contests among 20000+ participants(on average)",
       image: require("./assets/images/cp-logo-2.png"),
       footerLink: [
         {
@@ -447,7 +447,7 @@ const achievementSection = {
     },
     {
       title: "Champion in National ICT Day Contest",
-      subtitle:"Champion in National ICT Day Contest, 2018",
+      subtitle: "Champion in National ICT Day Contest, 2018",
       image: require("./assets/images/top_1_logo_2.png"),
       footerLink: [
         {
@@ -458,13 +458,13 @@ const achievementSection = {
     },
     {
       title: "2nd Runner-up in Regional Math Olympiad",
-      subtitle:"2nd runner-up in Dhaka Regional Math Olympiad, 2015",
+      subtitle: "2nd runner-up in Dhaka Regional Math Olympiad, 2015",
       image: require("./assets/images/math.png"),
       footerLink: [
       ]
     },
   ],
-  
+
   display: true // Set false to hide this section, defaults to true
 };
 
@@ -775,11 +775,11 @@ const gitHubProfileData = {
               "name": "code-library",
               "description": "Templates, algorithms and data structures implemented and collected for programming contests.",
               "forkCount": 439,
-              "stargazers": {"totalCount": 1540},
+              "stargazers": { "totalCount": 1540 },
               "url": "https://github.com/ShahjalalShohag/code-library",
               "id": "MDEwOlJlcG9zaXRvcnkxNTgwNjUxOTM=",
               "diskUsage": 3695,
-              "primaryLanguage": {"name": "C++", "color": "#f34b7d"}
+              "primaryLanguage": { "name": "C++", "color": "#f34b7d" }
             }
           },
           {
@@ -787,7 +787,7 @@ const gitHubProfileData = {
               "name": "Competitive-Programming-A-Complete-Guideline",
               "description": null,
               "forkCount": 82,
-              "stargazers": {"totalCount": 342},
+              "stargazers": { "totalCount": 342 },
               "url": "https://github.com/ShahjalalShohag/Competitive-Programming-A-Complete-Guideline",
               "id": "MDEwOlJlcG9zaXRvcnkyODg5NTM0MTQ=",
               "diskUsage": 302,
@@ -799,11 +799,11 @@ const gitHubProfileData = {
               "name": "ProblemSolving",
               "description": null,
               "forkCount": 3,
-              "stargazers": {"totalCount": 17},
+              "stargazers": { "totalCount": 17 },
               "url": "https://github.com/ShahjalalShohag/ProblemSolving",
               "id": "MDEwOlJlcG9zaXRvcnkzMjMxNjgyNzA=",
               "diskUsage": 16921,
-              "primaryLanguage": {"name": "C++", "color": "#f34b7d"}
+              "primaryLanguage": { "name": "C++", "color": "#f34b7d" }
             }
           },
           {
@@ -811,11 +811,11 @@ const gitHubProfileData = {
               "name": "The-Bookaholic",
               "description": null,
               "forkCount": 0,
-              "stargazers": {"totalCount": 0},
+              "stargazers": { "totalCount": 0 },
               "url": "https://github.com/ShahjalalShohag/The-Bookaholic",
               "id": "MDEwOlJlcG9zaXRvcnkzMzU1NTI4OTI=",
               "diskUsage": 5360,
-              "primaryLanguage": {"name": "JavaScript", "color": "#F1E05A"}
+              "primaryLanguage": { "name": "JavaScript", "color": "#F1E05A" }
             }
           },
           {
@@ -823,11 +823,11 @@ const gitHubProfileData = {
               "name": "Manimations",
               "description": null,
               "forkCount": 0,
-              "stargazers": {"totalCount": 2},
+              "stargazers": { "totalCount": 2 },
               "url": "https://github.com/ShahjalalShohag/Manimations",
               "id": "MDEwOlJlcG9zaXRvcnkzMzU1NDMzMDU=",
               "diskUsage": 5855,
-              "primaryLanguage": {"name": "Python", "color": "#3572A5"}
+              "primaryLanguage": { "name": "Python", "color": "#3572A5" }
             }
           },
           {
@@ -835,11 +835,11 @@ const gitHubProfileData = {
               "name": "Tally Note",
               "description": null,
               "forkCount": 0,
-              "stargazers": {"totalCount": 1},
+              "stargazers": { "totalCount": 1 },
               "url": "https://github.com/ShahjalalShohag/WebProject",
               "id": "MDEwOlJlcG9zaXRvcnkzMzkwMTM0NzY=",
               "diskUsage": 2151,
-              "primaryLanguage": {"name": "JavaScript", "color": "#F1E05A"}
+              "primaryLanguage": { "name": "JavaScript", "color": "#F1E05A" }
             }
           }
         ]
