@@ -54,7 +54,9 @@ const skillsSection = {
     emoji("⚡ Backend Engineering"),
     emoji("⚡ Web 3"),
     emoji("⚡ Blockchain Technology"),
+    emoji("⚡ Cryptocurrency"),
     emoji("⚡ Smart Contracts"),
+    emoji("⚡ Decentralized Finance"),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -178,7 +180,7 @@ const workExperiences = {
       company: "Alpine DeFi | Florida, United States",
       companylogo: require("./assets/images/alpine.png"),
       date: "Feb 2022 – Present",
-      desc: "Developed API endpoints in the Backend using FastAPI and PostgreSQL, Worked on Web 3 using Blockchain and Smart Contracts, Helped developing Python and Javascript SDK.",
+      desc: "Developed API endpoints in the Backend using FastAPI and PostgreSQL, Worked on Web 3 using Blockchain and Smart Contracts to build a Decentralized Finance Dapps, Helped developing Python and Javascript SDK.",
     },
     {
       role: "Problem Setter",

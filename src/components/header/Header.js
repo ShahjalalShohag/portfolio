@@ -104,7 +104,7 @@ function Header() {
             </li>
           )}
           <li>
-            <a href="https://academy.shahjalalshohag.com">Academy</a>
+            <a href="https://academy.shahjalalshohag.com" target="_blank">Academy</a>
           </li>
           <li>
             <a href="#contact">Contact Me</a>
