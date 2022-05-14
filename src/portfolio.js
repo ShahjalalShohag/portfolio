@@ -51,7 +51,10 @@ const skillsSection = {
     emoji("⚡ Algorithmic Problem Solving (solved 4300++ problems on various online platforms)"),
     emoji("⚡ Data Structures and Algorithms"),
     emoji("⚡ Competitive Programming"),
-    emoji("⚡ Developing API Endpoints"),
+    emoji("⚡ Backend Engineering"),
+    emoji("⚡ Web 3"),
+    emoji("⚡ Blockchain Technology"),
+    emoji("⚡ Smart Contracts"),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -69,6 +72,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "java",
       fontAwesomeClassname: "fab fa-java"
+    },
+    {
+      skillName: "javascript",
+      fontAwesomeClassname: "fab fa-js"
     },
     {
       skillName: "html",
@@ -167,17 +174,17 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Alpine DeFi",
+      role: "Software Engineer | Remote",
+      company: "Alpine DeFi | Florida, United States",
       companylogo: require("./assets/images/alpine.png"),
       date: "Feb 2022 – Present",
-      desc: "Developed API endpoints using FastAPI, PostgreSQL, and pandas",
+      desc: "Developed API endpoints in the Backend using FastAPI and PostgreSQL, Worked on Web 3 using Blockchain and Smart Contracts, Helped developing Python and Javascript SDK.",
     },
     {
       role: "Problem Setter",
       company: "International Mathematics Olympiad",
       companylogo: require("./assets/images/imo.png"),
-      date: "June 2021 – Present",
+      date: "June 2021 – July 2021",
       desc: "Created the first and only shortlisted problem from Bangladesh",
     },
     {
@@ -198,7 +205,7 @@ const workExperiences = {
       role: "Problem Setter",
       company: "HackerRank",
       companylogo: require("./assets/images/HackerRank_logo.png"),
-      date: "Feb 2019 – Present",
+      date: "Feb 2019 – Dec 2021",
       desc: "I worked as an author of some online international programming competitions at HackerRank",
     },
     {
@@ -213,7 +220,7 @@ const workExperiences = {
       company: "Bangladesh Olympiad in Informatics(BdOI)",
       companylogo: require("./assets/images/bdoi.jfif"),
       date: "Feb 2020 – Present",
-      desc: "I worked as an author of a problem in BdOI 2020",
+      desc: "I worked as an author of a problem in BdOI 2020 and 2022",
     },
     {
       role: "Assistance Academic Co-ordinator",
@@ -285,13 +292,9 @@ const achievementSection = {
     {
       title: "Number 1 Contributor in the World on Codeforces",
       subtitle:
-        "Oct 2021 - Present, indicates how much I helped the Competitive Programming community.",
+        "Oct 2021 - May 2022, indicates how much I helped the Competitive Programming community.",
       image: require("./assets/images/top_1_logo.png"),
       footerLink: [
-        {
-          name: "Top Contributed",
-          url: "https://codeforces.com/top-contributed"
-        }
       ]
     },
     {
@@ -774,8 +777,8 @@ const gitHubProfileData = {
             "node": {
               "name": "code-library",
               "description": "Templates, algorithms and data structures implemented and collected for programming contests.",
-              "forkCount": 439,
-              "stargazers": { "totalCount": 1540 },
+              "forkCount": 496,
+              "stargazers": { "totalCount": 1760 },
               "url": "https://github.com/ShahjalalShohag/code-library",
               "id": "MDEwOlJlcG9zaXRvcnkxNTgwNjUxOTM=",
               "diskUsage": 3695,
@@ -786,8 +789,8 @@ const gitHubProfileData = {
             "node": {
               "name": "Competitive-Programming-A-Complete-Guideline",
               "description": null,
-              "forkCount": 82,
-              "stargazers": { "totalCount": 342 },
+              "forkCount": 100,
+              "stargazers": { "totalCount": 416 },
               "url": "https://github.com/ShahjalalShohag/Competitive-Programming-A-Complete-Guideline",
               "id": "MDEwOlJlcG9zaXRvcnkyODg5NTM0MTQ=",
               "diskUsage": 302,
@@ -854,7 +857,7 @@ const socialMediaConnections = {
   projects: [
     {
       image: require("./assets/images/linkedin.png"),
-      projectName: "10,000+ Connections on LinkedIn",
+      projectName: "12,000+ Connections on LinkedIn",
       footerLink: [
         {
           name: "Let's Connect",
@@ -876,7 +879,7 @@ const socialMediaConnections = {
     },
     {
       image: require("./assets/images/blog.png"),
-      projectName: "50,000+ Views on my Personal Blog Site",
+      projectName: "80,000+ Views on my Personal Blog Site",
       footerLink: [
         {
           name: "Blog Link",
@@ -891,7 +894,7 @@ const socialMediaConnections = {
     },
     {
       image: require("./assets/images/github-logo.png"),
-      projectName: "800+ Followers on GitHub",
+      projectName: "950+ Followers on GitHub",
       footerLink: [
         {
           name: "Follow Me",
@@ -902,7 +905,7 @@ const socialMediaConnections = {
     },
     {
       image: require("./assets/images/codeforces_logo.png"),
-      projectName: "4500+ Followers on CodeForces",
+      projectName: "5000+ Followers on CodeForces",
       footerLink: [
         {
           name: "Follow Me",
