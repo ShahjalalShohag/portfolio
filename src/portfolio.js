@@ -231,13 +231,6 @@ const workExperiences = {
       date: "Feb 2019 – Dec 2021",
       desc: "I worked as an author of some online international programming competitions at HackerRank",
     },
-    {
-      role: "Assistance Academic Co-ordinator",
-      company: "SUST Science Arena",
-      companylogo: require("./assets/images/ssa.jfif"),
-      date: "Feb 2018 – Dec 2019",
-      desc: "SUST Science Arena is a renowned organization of Shahjalal University of Science and Technology.",
-    },
   ]
 };
 
