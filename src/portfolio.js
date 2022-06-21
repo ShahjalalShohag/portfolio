@@ -203,13 +203,13 @@ const workExperiences = {
       date: "Dec 2020 - Present",
       desc: "Bangladesh CP Server is the biggest discord community server of Competitive Programming enthusiasts from Bangladesh",
     },
-    {
-      role: "Founder and Trainer",
-      company: "YouKn0wWho Academy",
-      companylogo: require("./assets/images/academy_logo.png"),
-      date: "Nov 2021 - Present",
-      desc: "YouKn0wWho Academy is the place to go if you want to learn to code and want to become a better Competitive Programmer. I have already taught 500+ students in this Academy and it is growing day by day.",
-    },
+    // {
+    //   role: "Founder and Trainer",
+    //   company: "YouKn0wWho Academy",
+    //   companylogo: require("./assets/images/academy_logo.png"),
+    //   date: "Nov 2021 - Present",
+    //   desc: "YouKn0wWho Academy is the place to go if you want to learn to code and want to become a better Competitive Programmer. I have already taught 500+ students in this Academy and it is growing day by day.",
+    // },
     {
       role: "National Scientific Committee Member",
       company: "Bangladesh Olympiad in Informatics(BdOI)",
