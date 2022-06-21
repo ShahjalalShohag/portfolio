@@ -197,27 +197,6 @@ const workExperiences = {
       desc: "I worked as an author of some online international programming competitions at CodeForces",
     },
     {
-      role: "Founder",
-      company: "Bangladesh CP Server",
-      companylogo: require("./assets/images/bcslogo.png"),
-      date: "Dec 2020 - Present",
-      desc: "Bangladesh CP Server is the biggest discord community server of Competitive Programming enthusiasts from Bangladesh",
-    },
-    {
-      role: "Founder and Trainer",
-      company: "YouKn0wWho Academy",
-      companylogo: require("./assets/images/academy_logo.png"),
-      date: "Nov 2021 - Present",
-      desc: "YouKn0wWho Academy is the place to go if you want to learn to code and want to become a better Competitive Programmer. I have already taught 500+ students in this Academy and it is growing day by day.",
-    },
-    {
-      role: "National Scientific Committee Member",
-      company: "Bangladesh Olympiad in Informatics(BdOI)",
-      companylogo: require("./assets/images/bdoi.jfif"),
-      date: "Feb 2020 – Present",
-      desc: "I worked as an author of a problem in BdOI 2020 and 2022",
-    },
-    {
       role: "Problem Setter",
       company: "CodeChef",
       companylogo: require("./assets/images/codechef.png"),
@@ -230,6 +209,20 @@ const workExperiences = {
       companylogo: require("./assets/images/HackerRank_logo.png"),
       date: "Feb 2019 – Dec 2021",
       desc: "I worked as an author of some online international programming competitions at HackerRank",
+    },
+    {
+      role: "Founder",
+      company: "Bangladesh CP Server",
+      companylogo: require("./assets/images/bcslogo.png"),
+      date: "Dec 2020 - Present",
+      desc: "Bangladesh CP Server is the biggest discord community server of Competitive Programming enthusiasts from Bangladesh",
+    },
+    {
+      role: "National Scientific Committee Member",
+      company: "Bangladesh Olympiad in Informatics(BdOI)",
+      companylogo: require("./assets/images/bdoi.jfif"),
+      date: "Feb 2020 – Present",
+      desc: "I worked as an author of a problem in BdOI 2020 and 2022",
     },
     {
       role: "Assistance Academic Co-ordinator",
@@ -787,7 +780,7 @@ const gitHubProfileData = {
               "name": "code-library",
               "description": "Templates, algorithms and data structures implemented and collected for programming contests.",
               "forkCount": 496,
-              "stargazers": { "totalCount": 1788 },
+              "stargazers": { "totalCount": 1760 },
               "url": "https://github.com/ShahjalalShohag/code-library",
               "id": "MDEwOlJlcG9zaXRvcnkxNTgwNjUxOTM=",
               "diskUsage": 3695,
@@ -799,7 +792,7 @@ const gitHubProfileData = {
               "name": "Competitive-Programming-A-Complete-Guideline",
               "description": null,
               "forkCount": 100,
-              "stargazers": { "totalCount": 426 },
+              "stargazers": { "totalCount": 416 },
               "url": "https://github.com/ShahjalalShohag/Competitive-Programming-A-Complete-Guideline",
               "id": "MDEwOlJlcG9zaXRvcnkyODg5NTM0MTQ=",
               "diskUsage": 302,
@@ -877,7 +870,7 @@ const socialMediaConnections = {
     },
     {
       image: require("./assets/images/face3.jpg"),
-      projectName: "9,000+ Connections on Facebook",
+      projectName: "8,000+ Connections on Facebook",
       footerLink: [
         {
           name: "Let's Connect",
@@ -888,7 +881,7 @@ const socialMediaConnections = {
     },
     {
       image: require("./assets/images/blog.png"),
-      projectName: "100,000+ Views on my Personal Blog Site",
+      projectName: "80,000+ Views on my Personal Blog Site",
       footerLink: [
         {
           name: "Blog Link",
@@ -903,7 +896,7 @@ const socialMediaConnections = {
     },
     {
       image: require("./assets/images/github-logo.png"),
-      projectName: "1000+ Followers on GitHub",
+      projectName: "950+ Followers on GitHub",
       footerLink: [
         {
           name: "Follow Me",
@@ -914,7 +907,7 @@ const socialMediaConnections = {
     },
     {
       image: require("./assets/images/codeforces_logo.png"),
-      projectName: "5500+ Followers on CodeForces",
+      projectName: "5000+ Followers on CodeForces",
       footerLink: [
         {
           name: "Follow Me",
