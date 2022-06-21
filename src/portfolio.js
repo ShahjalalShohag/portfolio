@@ -206,7 +206,7 @@ const workExperiences = {
     {
       role: "Founder and Trainer",
       company: "YouKn0wWho Academy",
-      companylogo: require("./assets/images/bcslogo.png"),
+      companylogo: require("./assets/images/academy_logo.png"),
       date: "Nov 2021 - Present",
       desc: "YouKn0wWho Academy is the place to go if you want to learn to code and want to become a better Competitive Programmer. I have already taught 500+ students in this Academy and it is growing day by day.",
     },
@@ -231,13 +231,6 @@ const workExperiences = {
       date: "Feb 2019 – Dec 2021",
       desc: "I worked as an author of some online international programming competitions at HackerRank",
     },
-    // {
-    //   role: "Assistance Academic Co-ordinator",
-    //   company: "SUST Science Arena",
-    //   companylogo: require("./assets/images/ssa.jfif"),
-    //   date: "Feb 2018 – Dec 2019",
-    //   desc: "SUST Science Arena is a renowned organization of Shahjalal University of Science and Technology.",
-    // },
   ]
 };
 
