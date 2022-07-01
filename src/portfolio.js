@@ -606,7 +606,7 @@ const blogSection = {
         "This post took 4 years to make. And this is the most significant thing that I have ever shared in my whole life."
     },
     {
-      url: "https://blog.shahjalalshohag.com/death/",
+      url: "https://blog.shahjalalshohag.com/code-library/",
       title: "Code Library",
       description:
         "My personal code library where I compiled almost all the important templates that you will need in CP (saying almost just for courtesy)"
@@ -779,8 +779,8 @@ const gitHubProfileData = {
             "node": {
               "name": "code-library",
               "description": "Templates, algorithms and data structures implemented and collected for programming contests.",
-              "forkCount": 496,
-              "stargazers": { "totalCount": 1788 },
+              "forkCount": 518,
+              "stargazers": { "totalCount": 1810 },
               "url": "https://github.com/ShahjalalShohag/code-library",
               "id": "MDEwOlJlcG9zaXRvcnkxNTgwNjUxOTM=",
               "diskUsage": 3695,
@@ -791,8 +791,8 @@ const gitHubProfileData = {
             "node": {
               "name": "Competitive-Programming-A-Complete-Guideline",
               "description": null,
-              "forkCount": 100,
-              "stargazers": { "totalCount": 426 },
+              "forkCount": 105,
+              "stargazers": { "totalCount": 432 },
               "url": "https://github.com/ShahjalalShohag/Competitive-Programming-A-Complete-Guideline",
               "id": "MDEwOlJlcG9zaXRvcnkyODg5NTM0MTQ=",
               "diskUsage": 302,
