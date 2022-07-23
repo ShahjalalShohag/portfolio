@@ -303,7 +303,7 @@ const achievementSection = {
       title: "ICPC World Finalist",
       subtitle:
         "Managed to qualify for ICPC World Finals 2021 which will take place in November 2022",
-      image: require("./assets/images/icpc logo.png"),
+      image: require("./assets/images/imo.png"),
       footerLink: [
         {
           name: "ICPC ID",
