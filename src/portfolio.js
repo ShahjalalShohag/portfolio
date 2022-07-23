@@ -303,7 +303,7 @@ const achievementSection = {
       title: "ICPC World Finalist",
       subtitle:
         "Managed to qualify for ICPC World Finals 2021 which will take place in November 2022",
-      image: require("./assets/images/imo.png"),
+      image: require("./assets/images/icpc logo.png"),
       footerLink: [
         {
           name: "ICPC ID",
@@ -315,7 +315,7 @@ const achievementSection = {
       title: "Problem Setter of the First and Only Shortlisted from Bangladesh in IMO 2021",
       subtitle:
         "My problem got shortlisted in IMO 2021. The problem is A3. I have added the link here.",
-      image: require("./assets/images/icpc logo.png"),
+      image: require("./assets/images/imo.png"),
       footerLink: [
         {
           name: "My Problem(A3)",
