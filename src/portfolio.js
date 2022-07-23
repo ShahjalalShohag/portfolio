@@ -187,7 +187,7 @@ const workExperiences = {
       company: "International Mathematics Olympiad",
       companylogo: require("./assets/images/imo.png"),
       date: "June 2021 – July 2021",
-      desc: "Created the first and only shortlisted problem from Bangladesh",
+      desc: "Created the first and only shortlisted problem from Bangladesh in IMO 2021",
     },
     {
       role: "Problem Setter",
@@ -308,6 +308,18 @@ const achievementSection = {
         {
           name: "ICPC ID",
           url: "https://icpc.global/ICPCID/CDZWDIBEYHP4"
+        }
+      ]
+    },
+    {
+      title: "Problem Setter of the First and Only Shortlisted Problem from Bangladesh in IMO 2021",
+      subtitle:
+        "My problem got shortlisted in IMO 2021. The problem is A3. I have added the link here.",
+      image: require("./assets/images/imo.png"),
+      footerLink: [
+        {
+          name: "My Problem(A3)",
+          url: "https://www.imo-official.org/problems/IMO2021SL.pdf"
         }
       ]
     },
